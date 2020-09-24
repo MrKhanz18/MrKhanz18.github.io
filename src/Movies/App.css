@@ -1,0 +1,23 @@
+
+.card
+{
+    margin-left: auto;
+    margin-top: 70px; 
+}
+
+.carousel
+ {
+    width: 200px;  
+    margin-left: auto;
+    margin-top: 55px;
+ }
+#searchbar
+{
+    margin-left: 145px;
+    width: 30em;
+}
+
+#carouselExampleIndicators
+{
+ margin-left: 15px;
+}
